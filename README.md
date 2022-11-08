@@ -25,6 +25,6 @@ npm install or npm i
 
 Then, After you open the CMD, type “npm install” in your command prompt to install the npm dependencies and libraries.
 
-Lastly, type “nodemon app.js” in your command prompt to run the project.
+Lastly, type “node app.js” or "npm start" in your command prompt to run the project.
 
 Finally, type “localhost:3000” in your browser, type the following code to access your project dashboard.
