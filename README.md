@@ -40,16 +40,14 @@ Manage Profile:
 ![image](https://user-images.githubusercontent.com/87484675/200519258-65b28650-0c46-4738-a2d2-35cad76b4701.png)
 
 
-Steps:
+**Steps to run :**
 
 Open Command Prompt(CMD)
 
 Next, go to the project folder directory then type CMD to open the command prompt.
 
-npm install or npm i
+Then, After you open the CMD, type “**npm install**” in your command prompt to install the npm dependencies and libraries.
 
-Then, After you open the CMD, type “npm install” in your command prompt to install the npm dependencies and libraries.
+Lastly, type “**node app.js**” or "**npm start**" in your command prompt to run the project.
 
-Lastly, type “node app.js” or "npm start" in your command prompt to run the project.
-
-Finally, type “localhost:3000” in your browser, type the following code to access your project dashboard.
+Finally, type “**localhost:3000**” in your browser, type the following code to access your project dashboard.
